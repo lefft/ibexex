@@ -1,0 +1,8 @@
+.message {
+    font-size: medium;
+    width: 40em;
+}
+
+.continue-link { text-decoration: none; font-weight: bold; color: #ADD8E6; }
+.continue-link:hover { text-decoration: underline; font-weight: bold; color: #ADD8E6; }
+.continue-link:visited { color: #ADD8E6; }
